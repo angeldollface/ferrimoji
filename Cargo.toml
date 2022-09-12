@@ -1,0 +1,15 @@
+[package]
+name = "ferrimoji"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Angel Dollface"]
+description= "When Ferris wants pictures."
+homepage = "https://github.com/angeldollface/ferrimoji"
+repository = "https://github.com/angeldollface/ferrimoji"
+documentation = "https://github.com/angeldollface/ferrimoji"
+readme = "README.markdown"
+categories = ["command-line-utilities"]
+exclude = [
+  "/.github"
+]
