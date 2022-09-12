@@ -1,8 +1,8 @@
 # FERRIMOJI :crab: :heart_on_fire:
 
-***When Ferris wants pictures.*** :crab: :heart_on_fire:
-
 ![GitHub CI](https://github.com/angeldollface/ferrimoji/actions/workflows/rust.yml/badge.svg)
+
+***When Ferris wants pictures. :crab: :heart_on_fire:***
 
 ## ABOUT
 
