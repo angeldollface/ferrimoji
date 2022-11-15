@@ -9,6 +9,7 @@ use std::collections::HashMap;
 /// curated UTF-8 emojis.
 pub fn unicode_pool() -> HashMap<String, String> {
     let mut result: HashMap<String,String> = HashMap::new();
+    result.insert(String::from("cake"), String::from("\u{1f370}"));
     result.insert(String::from("grinningFace"), String::from("\u{1f600}"));
     result.insert(String::from("laughCry"), String::from("\u{1f602}"));
     result.insert(String::from("upsideDownFace"), String::from("\u{1f643}"));
